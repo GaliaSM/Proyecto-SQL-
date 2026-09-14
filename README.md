@@ -17,7 +17,7 @@ Los ejercicios abarcan los siguientes temas y conceptos de SQL:
 - **Subconsultas:** Filtrado mediante `NOT EXISTS`, `NOT IN` y comparación con valores agregados escalares.
 - **Vistas y tablas temporales**
 
-## 🛠️ Requisitos e Instalación
+## 🛠️ Requisitos
 
 Para ejecutar estas consultas se requiere:
 
